@@ -7,7 +7,7 @@ In a next publication we will use AI Computer vision techniques to detect simila
 
 ## Python notebook
 
-spot_the_difference.ipynb
+https://github.com/retkowsky/spot_the_difference/blob/main/spot_the_difference.ipynb
 
 ## Examples
 
