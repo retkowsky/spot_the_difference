@@ -5,6 +5,18 @@ There are many ways to achieve this. In this Python notebook we will spot the di
 
 In a next publication we will use AI Computer vision techniques to detect similarities.
 
+<img src='outputs/document1_bothimages.jpg'>
+<img src='outputs/document1_all.jpg'>
+
+<img src='outputs/food1_bothimages.jpg'>
+<img src='outputs/food1_all.jpg'>
+
+<img src='outputs/ID1_bothimages.jpg'>
+<img src='outputs/ID1_all.jpg'>
+
+<img src='outputs/store1_bothimages.jpg'>
+<img src='outputs/store1_all.jpg'>
+
 
 22-07-2022
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
