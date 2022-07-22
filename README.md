@@ -5,6 +5,10 @@ There are many ways to achieve this. In this Python notebook we will spot the di
 
 In a next publication we will use AI Computer vision techniques to detect similarities.
 
+## Python notebook
+
+spot_the_difference.ipynb
+
 ## Examples
 
 ### Example 1
