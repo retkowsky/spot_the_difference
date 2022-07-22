@@ -5,15 +5,21 @@ There are many ways to achieve this. In this Python notebook we will spot the di
 
 In a next publication we will use AI Computer vision techniques to detect similarities.
 
+## Examples
+
+### Example 1
 <img src='outputs/document1_bothimages.jpg'>
 <img src='outputs/document1_all.jpg'>
 
+### Example 2
 <img src='outputs/food1_bothimages.jpg'>
 <img src='outputs/food1_all.jpg'>
 
+### Example 3
 <img src='outputs/ID1_bothimages.jpg'>
 <img src='outputs/ID1_all.jpg'>
 
+### Example 4
 <img src='outputs/store1_bothimages.jpg'>
 <img src='outputs/store1_all.jpg'>
 
